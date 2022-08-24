@@ -1,4 +1,4 @@
-package org.sid.secservice.sec.sec.service;
+package org.sid.secservice.sec.service;
 
 import org.sid.secservice.sec.entities.AppRole;
 import org.sid.secservice.sec.entities.AppUser;
